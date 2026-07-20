@@ -30,9 +30,9 @@ h3 {
     padding-top: 35px;
 }
 
-#logo {
+/* #logo {
        
-}
+} */
 
 #navBtn {
         display: flex;
@@ -73,6 +73,7 @@ h3 {
     padding: 5px;
     border: 2px solid #f57c00;
     height: 100%;
+    width: 100%;
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(300px, 1fr));
     grid-auto-rows: 1fr;
